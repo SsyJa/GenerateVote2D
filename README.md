@@ -7,7 +7,7 @@
 We propose VoteSplat, a novel approach for scene understanding in 3DGS representations by incorporating effective and distinctive voting mechanisms into 3DGS. 
 
 
-## 1. Environment
+## 0. Environment
 
 ```yml
 name: generate_vote_2d
