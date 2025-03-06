@@ -1,6 +1,8 @@
 # GenerateVote2D
 
-We compute instance centroids from SAM-generated object masks in the image.
+*<!-- We compute instance centroids from SAM-generated object masks in the image. -->*
+
+We propose VoteSplat, a novel approach for scene understanding in 3DGS representations by incorporating effective and distinctive voting mechanisms into 3DGS. 
 
 
 
