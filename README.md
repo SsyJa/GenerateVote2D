@@ -1,4 +1,4 @@
-# VoteSplat
+# VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding
 
 ![image](https://github.com/user-attachments/assets/84d57f98-1c72-4366-a485-d767a9fc138d)
 
