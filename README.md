@@ -10,7 +10,7 @@ We propose VoteSplat, a novel approach for scene understanding in 3DGS represent
 ## 0. Environment
 
 ```yml
-name: generate_vote_2d
+name: VoteSplat
 
 channels:
   - conda-forge
