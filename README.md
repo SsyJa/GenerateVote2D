@@ -32,3 +32,19 @@ dependencies:
   - tqdm
 ```
 
+
+
+## 1. Running
+
+To generate 2d votes, you could use
+
+```cmd
+python preprocess.py
+```
+
+To run the optimizer, simply use
+
+```cmd
+python train.py -s <path to COLMAP or NeRF Synthetic dataset>
+```
+
