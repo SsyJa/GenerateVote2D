@@ -30,6 +30,12 @@ dependencies:
   - torchaudio=0.12.1
   - torchvision=0.13.1
   - tqdm
+  - pip:
+    - submodules/diff-gaussian-rasterization
+    - submodules/simple-knn
+    - submodules/fused-ssim
+    - opencv-python
+    - joblib
 ```
 
 
