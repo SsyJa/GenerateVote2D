@@ -25,8 +25,8 @@ def calculate_centroids_by_label(npy_count, npy_list, save_centroids_floder):
 
     for i in tqdm(range(npy_count), desc='Processing'):
         seg_path = seg_folder + '/' + npy_list[i]
-        seg_map = np.load(seg_path) # 4, 1080, 1440
-        seg_map = seg_map[sam_index] # we choose mask_l from SAM
+        seg_map = np.load(seg_path) 
+        seg_map = seg_map[sam_index] 
 
         unique_labels = np.unique(seg_map)
         unique_labels = unique_labels[unique_labels != -1]
