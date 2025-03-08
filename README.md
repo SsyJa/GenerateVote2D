@@ -53,3 +53,8 @@ To run the optimizer, simply use
 python train.py -s <path to COLMAP or NeRF Synthetic dataset>
 ```
 
+
+
+## 2. Preprocess
+
+Before calculating 2D Votes, we used SAM to extract the masks of different instances in the image based on the pre-processing process in LangSplat. 
